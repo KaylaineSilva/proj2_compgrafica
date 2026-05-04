@@ -16,7 +16,9 @@ Explorar um ambiente 3D navegável, permitindo ao usuário interagir com a cena 
 
 ## 🌍 Estrutura da Cena
 
-### 🏝️ Ambiente Externo
+### 🏝️ Ambiente Externo (Ilha)
+
+![Ambiente externo](images/cena-geral.png)
 
 * Palmeiras com animação de vento 🌬️
 * Rochas espalhadas
@@ -25,6 +27,8 @@ Explorar um ambiente 3D navegável, permitindo ao usuário interagir com a cena 
 * Mar e terreno texturizado
 
 ### 🕳️ Ambiente Interno (Caverna)
+
+![Ambiente interno](images/ambiente-interno.png)
 
 * Estrutura da caverna
 * Fogueira com efeito de pulsação 🔥
